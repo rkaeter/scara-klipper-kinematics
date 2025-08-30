@@ -1,2 +1,2 @@
 work in progress.
-c helper function first, later the kin_scara.py required.
+c helper function first, later the scara.py required by klippy.
